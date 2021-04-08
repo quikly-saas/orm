@@ -1,0 +1,14 @@
+{
+  "name": "@quikly/orm",
+  "version": "0.1.0",
+  "description": "orm for accessing quikly-saas",
+  "files": [
+    "lib"
+  ],
+  "author": "Konstantin Knopp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quikly-saas/orm.git"
+  },
+  "license": "MIT"
+}
